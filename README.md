@@ -3,6 +3,6 @@ Just a demo repo! <br>
 Author - Rico193
 
 <br>
-#First-Change
+# First-Change
 <br>
 learning about git!
